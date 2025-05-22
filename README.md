@@ -1,2 +1,2 @@
-# Indolike-intern
+# Indolike-intern project
 Data analysis
